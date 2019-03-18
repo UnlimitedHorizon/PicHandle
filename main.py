@@ -1,7 +1,7 @@
 """XXXX"""
 # -*- coding: utf-8 -*-
-# a
 # 这个demo里，用到了正则表达式库re（标准库）、文件及路径操作库os（标准库）、矩阵运算库numpy（附加库需下载）、图片视频处理库opencv（附加库需下载）
+
 import re
 import os
 import numpy as np
